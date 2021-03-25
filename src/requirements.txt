@@ -98,7 +98,7 @@ pytest==3.10.1            # via -r /home/jorgeda/Descargas/Quantil/kedro-environ
 python-dateutil==2.8.0    # via arrow, azure-storage-common, botocore, jupyter-client, kedro-viz, pandas
 python-json-logger==0.1.11  # via kedro
 pytz==2019.3              # via google-api-core, pandas
-pyyaml==5.3               # via kedro
+pyyaml==5.4               # via kedro
 pyzmq==19.0.0             # via jupyter-client, notebook
 qtconsole==4.7.1          # via jupyter
 qtpy==1.9.0               # via qtconsole

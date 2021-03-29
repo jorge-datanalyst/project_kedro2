@@ -90,7 +90,7 @@ pyasn1-modules==0.2.8     # via google-auth
 pyasn1==0.4.8             # via pyasn1-modules, rsa
 pycparser==2.20           # via cffi
 pydata-google-auth==0.3.0  # via pandas-gbq
-pygments==2.6.1           # via ipython, jupyter-console, nbconvert, qtconsole
+pygments==2.7.4           # via ipython, jupyter-console, nbconvert, qtconsole
 pyrsistent==0.15.7        # via jsonschema
 pytest-cov==2.8.1         # via -r /home/jorgeda/Descargas/Quantil/kedro-environment/prue_kedro2/rep_prue_kedro2/src/requirements.in
 pytest-mock==1.13.0       # via -r /home/jorgeda/Descargas/Quantil/kedro-environment/prue_kedro2/rep_prue_kedro2/src/requirements.in

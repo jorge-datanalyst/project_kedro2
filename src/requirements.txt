@@ -82,7 +82,7 @@ pluggy==0.13.1            # via pytest
 poyo==0.5.0               # via cookiecutter
 prometheus-client==0.7.1  # via notebook
 prompt-toolkit==3.0.4     # via ipython, jupyter-console
-protobuf==3.11.3          # via google-api-core, google-cloud-bigquery, googleapis-common-protos
+protobuf==3.15.0          # via google-api-core, google-cloud-bigquery, googleapis-common-protos
 ptyprocess==0.6.0         # via pexpect, terminado
 py==1.8.1                 # via pytest
 pyarrow==0.16.0           # via kedro

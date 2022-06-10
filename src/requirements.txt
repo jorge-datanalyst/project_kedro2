@@ -23,7 +23,7 @@ certifi==2019.11.28       # via requests
 cffi==1.14.0              # via cryptography
 chardet==3.0.4            # via binaryornot, requests
 click==7.0                # via cookiecutter, flask, kedro, pip-tools
-cookiecutter==1.7.0       # via kedro
+cookiecutter==2.1.1       # via kedro
 coverage==5.0.3           # via pytest-cov
 cryptography==2.8         # via azure-storage-common
 decorator==4.4.2          # via ipython, traitlets

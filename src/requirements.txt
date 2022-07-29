@@ -61,7 +61,7 @@ jupyterlab==0.31.1        # via -r /home/jorgeda/Descargas/Quantil/kedro-environ
 kedro-viz==3.2.0          # via -r /home/jorgeda/Descargas/Quantil/kedro-environment/prue_kedro2/rep_prue_kedro2/src/requirements.in
 kedro==0.15.8             # via -r /home/jorgeda/Descargas/Quantil/kedro-environment/prue_kedro2/rep_prue_kedro2/src/requirements.in, kedro-viz
 markupsafe==1.1.1         # via jinja2
-mistune==0.8.4            # via nbconvert
+mistune==2.0.3            # via nbconvert
 mock==4.0.1               # via tables
 more-itertools==8.2.0     # via pytest
 nbconvert==5.6.1          # via jupyter, notebook

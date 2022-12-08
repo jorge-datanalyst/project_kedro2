@@ -19,7 +19,7 @@ bleach==3.1.1             # via nbconvert
 boto3==1.12.16            # via s3fs
 botocore==1.15.16         # via boto3, s3fs, s3transfer
 cachetools==4.0.0         # via google-auth
-certifi==2019.11.28       # via requests
+certifi==2022.12.7       # via requests
 cffi==1.14.0              # via cryptography
 chardet==3.0.4            # via binaryornot, requests
 click==7.0                # via cookiecutter, flask, kedro, pip-tools
